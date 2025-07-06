@@ -50,7 +50,3 @@ Your mission? Outsmart, outpunch, and outkick your opponent in a 30-second duel 
 ---
 
 ## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/goku-street-fighter-java.git
