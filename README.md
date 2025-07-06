@@ -1,50 +1,60 @@
-# 🥋 Goku Street Fighter (Java Game)
+# 🥋 Saiyan Showdown – Goku vs Jin (Java Game)
 
-Welcome to **Goku Street Fighter**, a 2D arcade-style fighting game inspired by the energy of **Dragon Ball Z** and the mechanics of **Street Fighter** — all built from scratch in **Java**.
+![Gameplay Screenshot](src/gaming/structure/bg.png)
 
----
+> ⚔️ A Dragon Ball meets Tekken arcade experience, built in **Java**.
 
-## 🎮 Game Overview
-
-Two legendary fighters clash on your screen:  
-🌟 **Son Goku**, the Saiyan warrior from Dragon Ball Z  
-⚡ **Jin Kazama**, the martial artist from Tekken
-
-Your mission? Outsmart, outpunch, and outkick your opponent in a 30-second duel filled with:
-
-- Real-time combat mechanics
-- Power bars & health meters
-- Background music
-- Jump, punch, kick & move combos
-- Game-over logic and collision detection
+Welcome to **Saiyan Showdown**, a fast-paced 2D arcade-style fighting game where the legendary **Son Goku** faces off against **Jin Kazama**. Inspired by **Dragon Ball Z**, **Street Fighter**, and **Tekken**, this game brings anime intensity into code form — with animations, real-time combat, and background music!
 
 ---
 
-## 🛠️ Built With
+## 🎮 Game Preview
 
-| Feature | Tech |
-|--------|------|
-| GUI     | Java Swing |
-| Audio   | JACO MP3 Player |
-| Game Loop | `javax.swing.Timer` |
-| Animation | Custom sprite frames |
-| OOP Structure | Java Packages & Classes |
-| Input Handling | Keyboard KeyListener |
+👊 Experience a 30-second brawl where you:
+
+- Dodge, punch, kick, jump, and unleash devastating combos  
+- Watch your power and health bars drain in real time  
+- Enjoy dynamic animations and background audio  
+- Reach **Game Over** when a warrior is defeated!
 
 ---
 
-## 🎯 Controls
+## 🛠️ Tech Stack & Features
 
-### 👤 Player Left – Jin Kazama
-- `A` / `D` → Move Left / Right  
-- `W` → Jump  
-- `Z` → Kick  
-- `C` → Punch
-
-### 👤 Player Right – Son Goku
-- `←` / `→` → Move Left / Right  
-- `↑` → Jump  
-- `SHIFT` → Kick  
-- `ENTER` → Punch
+| Feature           | Technology Used           |
+|------------------|---------------------------|
+| 🖼️ Graphics       | Java Swing GUI             |
+| 🎵 Audio          | JACO MP3 Player Library    |
+| 🔄 Game Loop      | `javax.swing.Timer`        |
+| 🎞️ Animations     | Custom Sprite Sheets       |
+| 🔍 Collision Logic| Bounding Box Detection     |
+| ⌨️ Controls       | Java KeyListener API        |
+| 🧠 Architecture   | OOP (Classes, Packages)     |
 
 ---
+
+## 🕹️ Controls
+
+### 👤 **Player 1 – Jin Kazama**
+| Action     | Key     |
+|------------|---------|
+| Move       | `A` / `D` |
+| Jump       | `W`     |
+| Kick       | `Z`     |
+| Punch      | `C`     |
+
+### 👤 **Player 2 – Son Goku**
+| Action     | Key         |
+|------------|-------------|
+| Move       | `←` / `→`   |
+| Jump       | `↑`         |
+| Kick       | `SHIFT`     |
+| Punch      | `ENTER`     |
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/YourUsername/Saiyan-Showdown.git
