@@ -1,6 +1,6 @@
 # 🥋 Saiyan Showdown – Goku vs Jin (Java Game)
 
-![Gameplay Screenshot](src/gaming/structure/bg.png)
+![Gameplay Screenshot](src/gaming/structure/Game Screenshot.png)
 
 > ⚔️ A Dragon Ball meets Tekken arcade experience, built in **Java**.
 
