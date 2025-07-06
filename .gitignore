@@ -1,6 +1,0 @@
-# Ignore build and IDE files
-.idea/
-*.iml
-out/
-build/
-*.class
