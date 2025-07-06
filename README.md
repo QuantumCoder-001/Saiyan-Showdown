@@ -48,5 +48,3 @@ Your mission? Outsmart, outpunch, and outkick your opponent in a 30-second duel 
 - `ENTER` → Punch
 
 ---
-
-## 🚀 Getting Started
