@@ -1,0 +1,10 @@
+# Exclude everything
+*
+
+# But keep the following:
+!.gitignore
+!README.mdgit rm -r --cached .
+!*.jar
+!src/
+!jacomp3player/
+!**/MANIFEST.MF
