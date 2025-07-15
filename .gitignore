@@ -4,7 +4,6 @@
 # But keep:
 !.gitignore
 !README.md
-!*.iml
 !*.jar
 !src/
 !src/**/*
